@@ -1,0 +1,9 @@
+/ * newfile: style.css * /
+.container {
+	width: 720px;
+	margin: 0 auto;
+}
+
+ul > li {
+	backgurond-color: gray;
+}
